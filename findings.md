@@ -1,6 +1,6 @@
 # Findings Report
 
-**Audit Date:** June 2025  
+**Audit Date:** April 2026  
 **Network:** 192.168.1.0/24
 
 ---
