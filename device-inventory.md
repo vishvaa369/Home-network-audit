@@ -1,6 +1,6 @@
 # Device Inventory
 
-**Scan Date:** June 2025  
+**Scan Date:** April 2026 
 **Network Range:** 192.168.1.0/24  
 **Discovery Tools:** `arp-scan`, `nmap -sn`
 
