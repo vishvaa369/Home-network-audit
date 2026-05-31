@@ -118,6 +118,5 @@ This audit was conducted solely on a private home network with full authorizatio
 
 ## 👤 Author
 
-**[Your Name]**
-Cybersecurity Enthusiast | Home Lab Security Research
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+Vishvaa
+
