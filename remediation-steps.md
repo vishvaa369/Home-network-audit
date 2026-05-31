@@ -1,7 +1,7 @@
 # Remediation Steps
 
-**Audit Date:** June 2025  
-**Engineer:** [Your Name]
+**Audit Date:** April 2026  
+**Engineer:** [Vishvaa369]
 
 All remediation actions below were applied during the audit session. Each finding references the corresponding entry in `findings.md`.
 
